@@ -90,4 +90,4 @@ I am always open to full-time engineering roles, internships, and ambitious free
 * 📞 **Call:** +91 6266773071
 * 📍 **Office:** Chhattisgarh, India
 * 📧 **Email:** [shiv23042005@gmail.com](mailto:shiv23042005@gmail.com)
-* 🌐 **Live URL:** [github.shivam.com](https://github.shivam.com)
+* 🌐 **Live URL:** [github.shivam.com](https://github.shivam.com)"# -DEV-X-Portfolio" 
